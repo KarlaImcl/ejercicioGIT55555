@@ -1,4 +1,4 @@
 # ejercicioGIT
 Ejercicio Tipti
-Karla Imaicela Pin
+Karla Elizabeth Imaicela Pin 
 kimaicela@gmail.com
